@@ -1,0 +1,1 @@
+This is a sample website made as part of Learn Enough git to be dangerous(https://www.learnenough.com/git-tutorial), possible the greatest beginner tutorial in the history of the universe. You should totally check it out. 
